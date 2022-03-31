@@ -1,4 +1,54 @@
 body {
-    background: yellow;
+    background: rgb(9, 153, 158);
   }
+div li {
+  color: black;
+  padding-block-end: 10px;
+}
+h1{
+  text-align: center;
   
+}
+p{
+  padding-top: 40px;
+  margin-left: 20px;
+  font-size: large;
+  
+}
+.main-menu{
+  border:orange;border-width: 5px;border-style: solid;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+img{
+  float:right;
+  max-width: 50%;
+  margin-right: 50px;
+  border-radius: 10%;
+}
+.Rainbow {
+  margin-top: 0px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: -4px 4px #ef3550,
+               -8px 8px #f48fb1,
+               -12px 12px #7e57c2,
+               -16px 16px #2196f3,
+               -20px 20px #26c6da,
+               -24px 24px #43a047,
+               -28px 28px #eeff41,
+               -32px 32px #f9a825,
+               -36px 36px #ff5722;
+}
+table{
+  padding-top:100px;
+  border:orange;border-width: 5px;border-style: solid;
+  
+}
